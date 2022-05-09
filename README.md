@@ -20,7 +20,7 @@ You can contact me or fill a feature request if you would like to see a feature 
 
 ## To build and start the project locally:
  
-git clone https://github.com/marco76/java-react-basic.git 
+git clone https://github.com/MaximBezmen/java-react-basic.git
  
 cd ./java-react-basic.git 
  
