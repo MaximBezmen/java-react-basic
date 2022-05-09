@@ -17,3 +17,17 @@ Non-goal are to provide a full set of features or a template to be used to build
 
 ## Request a feature
 You can contact me or fill a feature request if you would like to see a feature included in this showcase.
+
+## To build and start the project locally:
+ 
+git clone https://github.com/marco76/java-react-basic.git 
+ 
+cd ./java-react-basic.git 
+ 
+mvn clean package 
+ 
+cd ./backend/target 
+ 
+java -jar backend-0.1-SNAPSHOT.jar 
+You should have the following result on http://localhost:8080
+
